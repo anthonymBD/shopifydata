@@ -3,7 +3,7 @@ import requests
 import json
 import pandas as pd
 
-url = 'https://wokiee-skins.myshopify.com/products.json?limit=250&page=1'
+url = ''
 
 r = requests.get(url)
 
